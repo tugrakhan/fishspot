@@ -1,0 +1,2 @@
+C:/Users/tugra/Desktop/isyeriegt/fish_spot/android/app/.cxx/Debug/5j2d642p/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/tugra/Desktop/isyeriegt/fish_spot/android/app/.cxx/Debug/5j2d642p/x86_64/CMakeFiles/rebuild_cache.dir

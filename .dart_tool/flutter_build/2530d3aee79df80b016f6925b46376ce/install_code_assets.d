@@ -1,0 +1,1 @@
+ C:\\Users\\tugra\\Desktop\\isyeriegt\\fish_spot\\.dart_tool\\flutter_build\\2530d3aee79df80b016f6925b46376ce\\native_assets.json: 
